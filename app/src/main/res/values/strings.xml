@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">AfxTextView</string>
+    <string name="app_version_name">v1.1</string>
+    <string name="hello_world">Hello World! Hello Wolrd! Hello Wolrd!</string>
+</resources>
